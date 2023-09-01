@@ -40,9 +40,7 @@ build/Release
 
 # Dependency directories
 node_modules/
-src/
-.vercel/
-vercel.json
+
 
 jspm_packages/
 
